@@ -10,3 +10,5 @@ The project has various features such as resource guide,pdf summarizer, question
 
 Demo for my project can be seen at 
 
+https://drive.google.com/file/d/1pZjssjZZcoA2vuRgHrjc3rC4SKmEOghS/view?usp=sharing
+
